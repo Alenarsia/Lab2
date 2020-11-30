@@ -28,11 +28,13 @@ namespace ConsoleApp1
                     Console.WriteLine("Cумма " + a + " и " + b + " равна " + total + ".");
                     Console.WriteLine("Измениние 1.");
                     Console.WriteLine("Измениние 2.");
+                    /*
                     Console.WriteLine("Продолжить?Y/N.");
                     if (Console.ReadKey().Key == ConsoleKey.N)
                     {
                         Environment.Exit(0);
                     }
+                    */
                 }
 
                 else if (oper == '-')
@@ -42,10 +44,13 @@ namespace ConsoleApp1
                     Console.WriteLine("Измениние 1.");
                     Console.WriteLine("Измениние 2.");
                     Console.WriteLine("Продолжить?Y/N.");
+                    /*
+                    Console.WriteLine("Продолжить?Y/N.");
                     if (Console.ReadKey().Key == ConsoleKey.N)
                     {
                         Environment.Exit(0);
                     }
+                    */
                 }
 
                 else if (oper == '*')
@@ -55,10 +60,13 @@ namespace ConsoleApp1
                     Console.WriteLine("Измениние 1.");
                     Console.WriteLine("Измениние 2.");
                     Console.WriteLine("Продолжить?Y/N.");
+                    /*
+                    Console.WriteLine("Продолжить?Y/N.");
                     if (Console.ReadKey().Key == ConsoleKey.N)
                     {
                         Environment.Exit(0);
                     }
+                    */
                 }
 
                 else if (oper == '/')
@@ -68,10 +76,13 @@ namespace ConsoleApp1
                     Console.WriteLine("Измениние 1.");
                     Console.WriteLine("Измениние 2.");
                     Console.WriteLine("Продолжить?Y/N.");
+                    /*
+                    Console.WriteLine("Продолжить?Y/N.");
                     if (Console.ReadKey().Key == ConsoleKey.N)
                     {
                         Environment.Exit(0);
                     }
+                    */
                 }
                 else
                 {
