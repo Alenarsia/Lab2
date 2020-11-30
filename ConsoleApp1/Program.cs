@@ -22,28 +22,40 @@ namespace ConsoleApp1
             {
                 total = a + b;
                 Console.WriteLine("Cумма " + a + " и " + b + " равна " + total + ".");
+<<<<<<< HEAD
                 Console.WriteLine("Изменение 3.");
+=======
+>>>>>>> parent of 3bfedfa (Изменение 2)
             }
 
             else if (oper == '-')
             {
                 total = a - b;
                 Console.WriteLine("Разность " + a + " и " + b + " равна " + total + ".");
+<<<<<<< HEAD
                 Console.WriteLine("Изменение 3.");
+=======
+>>>>>>> parent of 3bfedfa (Изменение 2)
             }
 
             else if (oper == '*')
             {
                 total = a * b;
                 Console.WriteLine("Умножение " + a + " на " + b + " равно " + total + ".");
+<<<<<<< HEAD
                 Console.WriteLine("Изменение 3.");
+=======
+>>>>>>> parent of 3bfedfa (Изменение 2)
             }
 
             else if (oper == '/')
             {
                 total = a / b;
                 Console.WriteLine("Деление " + a + " на " + b + " равно " + total + ".");
+<<<<<<< HEAD
                 Console.WriteLine("Изменение 3.");
+=======
+>>>>>>> parent of 3bfedfa (Изменение 2)
             }
             else
             {
